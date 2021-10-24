@@ -3,3 +3,4 @@
 ## create database -> next -> enable -? rules -> changes
 ## authentication -> email/password 
 ## projects setting -> at end </> -> register
+# npm add react-flip-move
