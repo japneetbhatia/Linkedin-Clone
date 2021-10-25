@@ -7,7 +7,7 @@
     border: 1px solid lightgray;
     height: fit-content;
     padding-bottom: 10px;
-    /* width: 350px; */
+    width: 300px;
 }
 
 .widgets__header {
@@ -17,8 +17,10 @@
     padding: 10px;
 }
 
-.widgets__header > h2 {
-    font-size: 16px;
+.widgets__header > h3 {
+    /* padding-top: 500px; */
+    /* align-items: center; */
+    font-size: 14px;
     font-weight: 400;
 }
 

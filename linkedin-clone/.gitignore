@@ -23,4 +23,11 @@ yarn-debug.log*
 yarn-error.log*
 
 
-.firebase
+.firebase 
+n
+.firebaserc
+
+
+
+# Project Console: https://console.firebase.google.com/project/linkedin-clone-f7c18/overview
+# Hosting URL: https://linkedin-clone-f7c18.web.app
